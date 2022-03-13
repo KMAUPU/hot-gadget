@@ -1,0 +1,26 @@
+.container{
+    margin-bottom: 50px;
+}
+.buy{
+    background-image: linear-gradient(to bottom, black 0%,black 100%);
+    color:white;
+    border-radius: 5px;
+    padding: 10px 20px;
+}
+.sa{
+    color:orange
+}
+.card{
+    border:none;
+    border-radius: 10px;
+    box-shadow: 8px 8px 15px lightgray;
+}
+.aa{
+
+}
+.underline-block{
+    width: 80px;
+    height: 7px;
+    border-radius: 9px;
+    background-image: linear-gradient(to right, orange,red);
+}
